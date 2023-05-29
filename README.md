@@ -21,8 +21,8 @@ A tecnologia para criar a API é livre (sugerida NodeJS com Express).
 3. Postman: crie uma coleção no Postman (ou insomnia) demonstrando como fazer as chamadas
 para os métodos da sua API.
 # O script do banco de dados foi inserido no formato JSON, mas segue abaixo o script utilizado na implementação:
-CREATE DATABASE bdbackend;
 ```
+CREATE DATABASE bdbackend;
 USE bdbackend;
 
 CREATE TABLE usuarios (
