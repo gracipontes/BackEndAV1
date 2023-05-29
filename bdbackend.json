@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bdbackend"},
+{"type":"table","name":"produtos","database":"bdbackend","data":
+[
+
+]
+}
+,{"type":"table","name":"usuarios","database":"bdbackend","data":
+[
+
+]
+}
+]
