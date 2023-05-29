@@ -20,7 +20,7 @@ d. Crie um método de login, usando JWT.
 A tecnologia para criar a API é livre (sugerida NodeJS com Express).
 3. Postman: crie uma coleção no Postman (ou insomnia) demonstrando como fazer as chamadas
 para os métodos da sua API.
-# O script do banco de dados foi inserido no formato JSON, mas segue abaixo o script utilizado na implementação:
+# O script do banco de dados foi inserido no formato JSON, mas segue abaixo o que foi utilizado na implementação:
 ```
 CREATE DATABASE bdbackend;
 USE bdbackend;
